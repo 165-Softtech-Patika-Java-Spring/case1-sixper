@@ -1,3 +1,5 @@
+# Proje yapısı biraz karmaşık oldu. Bütün kodlar Softtech_Onur_Erman/src altındaki Homie,Service ve Test adlı 3 paketin içinde.
+
 # Case1
 
 1. Ev, Villa, Yazlık tipinde 3 adet ev tipi oluşturunuz.
